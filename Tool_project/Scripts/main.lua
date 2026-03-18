@@ -1,0 +1,2 @@
+-- 在初始化时启用独立多点触控模式
+kz_input:set_multitouch_mode(kz.MULTITOUCH_MODE_INDEPENDENT)
